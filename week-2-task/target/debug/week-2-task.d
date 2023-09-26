@@ -1,0 +1,1 @@
+/home/lilo/rise-in/Polkadot-Substrate-Development-Bootcamp-Final-Project/week-2-task/target/debug/week-2-task: /home/lilo/rise-in/Polkadot-Substrate-Development-Bootcamp-Final-Project/week-2-task/src/main.rs
